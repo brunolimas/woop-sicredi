@@ -1,0 +1,15 @@
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\Application.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\application\CreateSessionVoting.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\SessionVoting.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\controller\VoterController.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\VoterRepository.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\application\RegisterVote.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\Voter.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\SwaggerConfig.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\exception\BusinessException.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\application\CreateVoter.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\Vote.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\Schedule.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\controller\ScheduleController.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\ScheduleRepository.java
+C:\Users\bruno.bica\git\prova-sicredi-woop\src\main\java\woop\sicredi\domain\YesOrNo.java

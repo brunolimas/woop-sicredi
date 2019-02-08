@@ -1,0 +1,15 @@
+woop\sicredi\domain\exception\BusinessException.class
+woop\sicredi\domain\VoterRepository.class
+woop\sicredi\domain\ScheduleRepository.class
+woop\sicredi\application\CreateSessionVoting.class
+woop\sicredi\controller\VoterController.class
+woop\sicredi\domain\Vote.class
+woop\sicredi\domain\Voter.class
+woop\sicredi\application\CreateVoter.class
+woop\sicredi\application\RegisterVote.class
+woop\sicredi\domain\Schedule.class
+woop\sicredi\Application.class
+woop\sicredi\domain\YesOrNo.class
+woop\sicredi\domain\SessionVoting.class
+woop\sicredi\SwaggerConfig.class
+woop\sicredi\controller\ScheduleController.class

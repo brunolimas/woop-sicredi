@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: woop.sicredi.host.ScheduleControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 5.287 s <<< FAILURE! - in woop.sicredi.host.ScheduleControllerTest
+registerVote(woop.sicredi.host.ScheduleControllerTest)  Time elapsed: 0.115 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<404>
+	at woop.sicredi.host.ScheduleControllerTest.registerVote(ScheduleControllerTest.java:80)
+
+shouldPermissionSessionCreateVotingToFinishDate(woop.sicredi.host.ScheduleControllerTest)  Time elapsed: 0.043 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<404>
+	at woop.sicredi.host.ScheduleControllerTest.shouldPermissionSessionCreateVotingToFinishDate(ScheduleControllerTest.java:71)
+

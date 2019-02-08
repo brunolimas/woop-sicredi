@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: woop.sicredi.host.VoterControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.871 s <<< FAILURE! - in woop.sicredi.host.VoterControllerTest
+noPermissionCreateVoteCpfInvalid(woop.sicredi.host.VoterControllerTest)  Time elapsed: 0.165 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<400> but was:<201>
+	at woop.sicredi.host.VoterControllerTest.noPermissionCreateVoteCpfInvalid(VoterControllerTest.java:66)
+

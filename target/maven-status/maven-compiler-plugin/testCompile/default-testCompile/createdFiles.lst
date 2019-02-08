@@ -1,0 +1,7 @@
+woop\sicredi\application\RegisterVoterTest.class
+woop\sicredi\domain\ScheduleTest.class
+woop\sicredi\application\CreateVoterTest.class
+woop\sicredi\domain\SessionVotingTest.class
+woop\sicredi\application\SessionVotingCreateTest.class
+woop\sicredi\host\ScheduleControllerTest.class
+woop\sicredi\host\VoterControllerTest.class
