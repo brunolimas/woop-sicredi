@@ -24,7 +24,7 @@ POST / voter
 *nome *cpf
 
 2- Cadastrar nova pauta
-POST /pauta
+POST /schedule
 
 3- Iniciar sessão de votação
 POST /schedule/{idSchedule}/session-voting
